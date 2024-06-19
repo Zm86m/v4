@@ -74,7 +74,7 @@ var apps = {
   Spotify: { imageUrl: "/assets/img/spotify.webp", onClick: spotify },
   GitHub: { imageUrl: "/assets/img/github.webp", onClick: github },
   'Visual Studio Code': { imageUrl: "/assets/img/vscode.webp", onClick: vscode, height: 130 },
-  'ADD+': { imageUrl: "/assets/img/vscode.webp", onClick: vscode, height: 130 },
+  'ADD+': { imageUrl: "/assets/img/vscode.webp", onClick: B9, height: 130 },
 
   
 };
