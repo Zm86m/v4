@@ -11,6 +11,10 @@ function gpt() {
   openAg('https://ub7.org');
 }
 
+function B9() {
+  openAg('https://www.uptoplay.net/baseball-9-online-game/us.kr.baseballnine');
+}
+
 function nf() {
   alert('This app is still in development.\nCheck discord.gg/unblocking for details.');
 }
